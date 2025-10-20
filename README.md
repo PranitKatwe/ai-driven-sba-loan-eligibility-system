@@ -1,1 +1,4 @@
-# ai-driven-sba-loan-eligibility-system
+•	Built a classification engine for SBA loan types (7(a), 8(a), 504, Express) with 87% accuracy using XGBoost, TabTransformer, and Neural Nets.
+•	Increased minority class recall by 30%+ through SMOTE and oversampling on a 100K+ synthetic dataset with realistic SBA constraints.
+•	Optimized model performance using advanced hyperparameter tuning techniques (DART, RAdam, AdamW), improving generalization.
+•	Identified income-to-debt ratio and minority ownership as top predictors using LIME, improving clarity in loan approval decisions.
